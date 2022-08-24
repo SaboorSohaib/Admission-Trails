@@ -1,32 +1,36 @@
-*body{
-    margin: 0;
-    padding: 0;
+*body {
+  margin: 0;
+  padding: 0;
 }
-#navbar{
-    width: 300px;
-    position: fixed;
-    background-color: lightgray;
-    height: 100vh;
-    left: 0;
-    top: 0;
-    box-shadow: 5px 5px 5px gray;
+
+#navbar {
+  width: 300px;
+  position: fixed;
+  background-color: lightgray;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  box-shadow: 5px 5px 5px gray;
 }
-#navbar header{
-    background-color: lightgray;
-    padding: 25px;
-    text-align: center;
-    font-size: larger;
-    font-weight: bolder;
+
+#navbar header {
+  background-color: lightgray;
+  padding: 25px;
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
 }
-.nav-link{
-    padding: 20px;
-    text-align: center;
-    text-decoration: none;
-    color: black;
-    font-size: 20px;
-    line-height: 70px;
-    border: 1px solid black;
+
+.nav-link {
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  line-height: 70px;
+  border: 1px solid black;
 }
-#main-doc{
-    margin-left: 330px;
+
+#main-doc {
+  margin-left: 330px;
 }
